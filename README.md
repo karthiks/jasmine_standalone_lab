@@ -23,7 +23,7 @@ Example:
 
 ## The SpecRunner
 
-The Javascript code that launches and executes the specs/tests resides in the specRunner.html, within the <script> tags as below:
+The Javascript code that launches and executes the specs/tests resides in the specRunner.html, within the ```<script>``` tags as below:
 
 ```html
 <script type="text/javascript">
